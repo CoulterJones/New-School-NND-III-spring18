@@ -11,6 +11,6 @@
 
 ### Assignment
 
-- Email Coulter [coulterjones@gmail.com](mailto:coulterjones@gmail.com) or [coulter.jones@ire.com](mailto:coulter.jones@ire.com)  one story idea based on the campus crime data used in class, explaining how you the data would help you report that story and what other questions you may answer. 
+- Email Coulter [coulterjones@gmail.com](mailto:coulterjones@gmail.com) or [jonescw@newschool.edu](mailto:jonescw@newschool.edu)  one story idea based on the campus crime data used in class, explaining how you the data would help you report that story and what other questions you may answer. 
 
 - Read [How We Crunched California’s Pay-to-Stay Data: A guide to our methodology](http://www.latimes.com/projects/la-me-pay-to-stay-methodology/)
