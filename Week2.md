@@ -8,7 +8,7 @@
 ### In class discussion and hands on work
 1. Discuss [How We Crunched California’s Pay-to-Stay Data: A guide to our methodology](http://www.latimes.com/projects/la-me-pay-to-stay-methodology/)
 
-2. Pivot tables using [campus crime statistics](https://docs.google.com/spreadsheets/d/1Ekzp9u-WnHakOxgEyci8Z7C6y5bWkhamNgeM4ZHT3wA/edit#gid=0) and/or [data on Facebook]() used for this [story](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis?utm_term=.kqjELw8P2#.ib6R9G6Dn)
+2. Pivot tables using [campus crime statistics](https://docs.google.com/spreadsheets/d/1pph3Guh1y2aVLoNKj8AEHwUnjTLwYqJXxCp6qwbrk9A/edit#gid=0) and/or [data on Facebook](https://github.com/CoulterJones/New-School/blob/master/Data/Importing/facebook-fact-check%20-%20facebook-fact-check.csv) used for this [story](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis?utm_term=.kqjELw8P2#.ib6R9G6Dn)
 
 Details on the Buzzfeed data:
  - Over the course of seven weekdays (Sept. 19 to 23 and Sept. 26 and 27), BuzzFeed News logged and fact-checked every single post published by nine sources: three mainstream and six hyper partisan sites. Posts could be rated “mostly true,” “mixture of true and false,” or “mostly false.”
