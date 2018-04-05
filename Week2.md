@@ -16,7 +16,7 @@ Details on the Buzzfeed data:
  - The Facebook reactions fields were obtained from Facebook (through an API) on October 11, 2016. For the details, here’s the [methodology](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check) that Buzzfeed used and was published with the story.
 
 
-3. Importing data from the [Department of Education's Campus Safety and Security analysis data](https://ope.ed.gov/campussafety/) using this example as well as (other delimted text)[https://raw.githubusercontent.com/CoulterJones/New-School/master/Data/Importing/DRUG12Q3.TXT]
+3. Importing data from the [Department of Education's Campus Safety and Security analysis data](https://ope.ed.gov/campussafety/) using this example as well as [other delimted text](https://raw.githubusercontent.com/CoulterJones/New-School/master/Data/Importing/DRUG12Q3.TXT)
 
 ### Assignment
 
