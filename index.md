@@ -30,5 +30,5 @@ As part of your semester-long look at reporting and other skills while focused o
 
 ### Class Visits and Assignments
 1. [Week 1: Introductions and campus crime](Week1)
-2. [Week 2: Importing data and pivot tables(Week2)
+2. [Week 2: Importing data and pivot tables](Week2)
 3. Week 3 (link TK)
