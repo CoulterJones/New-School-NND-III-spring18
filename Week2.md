@@ -21,3 +21,5 @@ Details on the Buzzfeed data:
 ### Assignment
 
 - To be discussed in class. 
+
+- Friday [class assignment](assignmentWeek2)
