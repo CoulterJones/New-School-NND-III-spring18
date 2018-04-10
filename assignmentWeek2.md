@@ -3,7 +3,7 @@
 
 Using this [campus crime data](https://docs.google.com/spreadsheets/d/1pph3Guh1y2aVLoNKj8AEHwUnjTLwYqJXxCp6qwbrk9A/edit#gid=0) answer the questions below.
 
-Remember to first make a copy of the data (**File** > **Make a copy...**). Email answer to Coulter (cc Andrew) by midnight Thursday. We will go over answers in class. 
+Remember to first make a copy of the data (**File** > **Make a copy...**). Email answers to Coulter (cc Andrew) by midnight Thursday. We will go over answers in class. 
 
 1. Which year had the most Drug law and	Liquor law violations at the New School per student and what was the rate?
 Which year had the second highest rate?
